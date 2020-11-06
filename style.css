@@ -1,0 +1,36 @@
+/* *{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+} */
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.verde{
+    color: green;
+}
+
+.pink{
+    color:pink;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
